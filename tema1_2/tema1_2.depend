@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1552659227 source:d:\arevy\fmi\anul_3\sem_2\tc\tema1_2\main.cpp
+	<stdio.h>
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+	<vector>
+	<stack>
+	<algorithm>
+	<map>
+
